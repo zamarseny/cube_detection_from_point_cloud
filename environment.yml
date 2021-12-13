@@ -1,0 +1,6 @@
+name: 3d-scatter-viewer
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
